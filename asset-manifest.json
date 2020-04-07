@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Covid-19-Live-Tracker-App-using-Reactjs/static/css/main.09b62c8b.chunk.css",
-    "main.js": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/main.de5827f8.chunk.js",
-    "main.js.map": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/main.de5827f8.chunk.js.map",
+    "main.css": "/Covid-19-Live-Tracker-App-using-Reactjs/static/css/main.d4d4230d.chunk.css",
+    "main.js": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/main.3a7c157a.chunk.js",
+    "main.js.map": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/main.3a7c157a.chunk.js.map",
     "runtime-main.js": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/runtime-main.a3359c32.js",
     "runtime-main.js.map": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/runtime-main.a3359c32.js.map",
-    "static/js/2.00a5e61d.chunk.js": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/2.00a5e61d.chunk.js",
-    "static/js/2.00a5e61d.chunk.js.map": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/2.00a5e61d.chunk.js.map",
+    "static/js/2.5c3cc670.chunk.js": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/2.5c3cc670.chunk.js",
+    "static/js/2.5c3cc670.chunk.js.map": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/2.5c3cc670.chunk.js.map",
     "index.html": "/Covid-19-Live-Tracker-App-using-Reactjs/index.html",
-    "precache-manifest.aa0ae437ad01b256e658cf60cd2ef91b.js": "/Covid-19-Live-Tracker-App-using-Reactjs/precache-manifest.aa0ae437ad01b256e658cf60cd2ef91b.js",
+    "precache-manifest.1af0d1ddd444823aa7e207d8553c667e.js": "/Covid-19-Live-Tracker-App-using-Reactjs/precache-manifest.1af0d1ddd444823aa7e207d8553c667e.js",
     "service-worker.js": "/Covid-19-Live-Tracker-App-using-Reactjs/service-worker.js",
-    "static/css/main.09b62c8b.chunk.css.map": "/Covid-19-Live-Tracker-App-using-Reactjs/static/css/main.09b62c8b.chunk.css.map",
-    "static/js/2.00a5e61d.chunk.js.LICENSE.txt": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/2.00a5e61d.chunk.js.LICENSE.txt",
+    "static/css/main.d4d4230d.chunk.css.map": "/Covid-19-Live-Tracker-App-using-Reactjs/static/css/main.d4d4230d.chunk.css.map",
+    "static/js/2.5c3cc670.chunk.js.LICENSE.txt": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/2.5c3cc670.chunk.js.LICENSE.txt",
     "static/media/coronavirus.png": "/Covid-19-Live-Tracker-App-using-Reactjs/static/media/coronavirus.34967c3b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.a3359c32.js",
-    "static/js/2.00a5e61d.chunk.js",
-    "static/css/main.09b62c8b.chunk.css",
-    "static/js/main.de5827f8.chunk.js"
+    "static/js/2.5c3cc670.chunk.js",
+    "static/css/main.d4d4230d.chunk.css",
+    "static/js/main.3a7c157a.chunk.js"
   ]
 }
