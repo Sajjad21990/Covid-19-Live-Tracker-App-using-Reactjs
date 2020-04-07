@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5768efd12108ef7de9474cda78142874",
+    "revision": "d52ce19d3e67c9b12709221279603a29",
     "url": "/Covid-19-Live-Tracker-App-using-Reactjs/index.html"
   },
   {
-    "revision": "8feb6158f3154a295ac0",
-    "url": "/Covid-19-Live-Tracker-App-using-Reactjs/static/css/main.9f394616.chunk.css"
+    "revision": "f6b85bab61e579c5dd57",
+    "url": "/Covid-19-Live-Tracker-App-using-Reactjs/static/css/main.09b62c8b.chunk.css"
   },
   {
     "revision": "997859403901a54b02c6",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/2.00a5e61d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8feb6158f3154a295ac0",
-    "url": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/main.9f36727c.chunk.js"
+    "revision": "f6b85bab61e579c5dd57",
+    "url": "/Covid-19-Live-Tracker-App-using-Reactjs/static/js/main.de5827f8.chunk.js"
   },
   {
     "revision": "4733b1ed1f10e0650307",
